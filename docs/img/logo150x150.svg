@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 350 400">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="10%" style="stop-color:#60609ac9;stop-opacity:1" />
+      <stop offset="90%" style="stop-color:#191948;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="175" cy="200" r="175" style="fill:url(#grad);" />
+  <text x="80" y="175" style="font-size:10.16rem;font-weight:bold;fill:#ccc; font-family:'Play', sans-serif">
+    B
+  </text>
+  <text x="190" y="345" style="font-size:10.16rem;font-weight:bold;fill:#ccc; font-family:'Play', sans-serif">
+    P
+  </text>
+  <text x="175" y="210" style="font-size:2.08rem;letter-spacing:0.5rem; font-weight:bold;fill:#ccc; font-family:'Play', sans-serif; text-anchor:middle; alignment-baseline:middle">
+    Autodidacta
+  </text>
+</svg>
+
+
+

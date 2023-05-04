@@ -1,0 +1,44 @@
+{
+  "name": "front-blog-personal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build-postcss": "postcss src/index.css -o docs/index.min.css --no-map",
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braian953autodidacta/portafolio-cv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/braian953autodidacta/portafolio-cv/issues"
+  },
+  "homepage": "https://github.com/braian953autodidacta/portafolio-cv#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.8",
+    "@babel/preset-env": "^7.21.5",
+    "autoprefixer": "^10.4.14",
+    "babel-loader": "^9.1.2",
+    "copy-webpack-plugin": "^11.0.0",
+    "css-loader": "^6.7.3",
+    "cssnano": "^6.0.1",
+    "dotenv": "^16.0.3",
+    "file-loader": "^6.2.0",
+    "html-loader": "^4.2.0",
+    "html-webpack-plugin": "^5.5.1",
+    "image-webpack-loader": "^8.1.0",
+    "postcss-cli": "^10.1.0",
+    "postcss-loader": "^7.3.0",
+    "postcss-preset-env": "^8.3.2",
+    "webpack": "^5.81.0",
+    "webpack-cli": "^5.0.2"
+  }
+}

@@ -1,0 +1,108 @@
+{
+   "lista_habilidades":[
+      {
+         "tecnologia":"HTML",
+         "uri_image":"html.svg",
+         "nivel":80,
+         "color":"#f16529"
+      },
+      {
+         "tecnologia":"CSS",
+         "uri_image":"css.svg",
+         "nivel":70,
+         "color":"#2965f1"
+      },
+      {
+         "tecnologia":"JAVASCRIPT",
+         "uri_image":"javascript.svg",
+         "nivel":70,
+         "color":"#f0db4f"
+      },
+      {
+         "tecnologia":"NODE.JS",
+         "uri_image":"nodejs.svg",
+         "nivel":50,
+         "color":"#3c873a"
+      },
+      {
+         "tecnologia":"postgrees SQL",
+         "uri_image":"postgres.svg",
+         "nivel":50,
+         "color":"#336791"
+      },
+      {
+         "tecnologia":"VScode",
+         "uri_image":"code-editor.svg",
+         "nivel":70,
+         "color":"#007ACC"
+      },
+      {
+         "tecnologia":"base de datos SQL",
+         "uri_image":"database.png",
+         "nivel":40,
+         "color":"#0E3452"
+      },
+      {
+         "tecnologia":"mongoDB",
+         "uri_image":"mongo.svg",
+         "nivel":10,
+         "color":"#4DB33D"
+      },
+      {
+         "tecnologia":"react",
+         "uri_image":"react.svg",
+         "nivel":30,
+         "color":"#61DAFB"
+      }
+   ],
+   "lista_curriculum":[
+        {
+            "titulo_gral_cursos":"Curso en línea",
+            "dataValue": "html-basic",
+            "sub_subtitulo":"Curso gratuito de HTML básico en YouTube por DorianDesings",
+            "descripcion":"Este curso cubrió los fundamentos de HTML, incluyendo estructura, etiquetas y atributos. Me proporcionó una comprensión sólida de cómo crear páginas web básicas."
+        },
+        {
+           "titulo_gral_cursos":"Curso en línea",
+           "dataValue": "css-basic",
+            "sub_subtitulo":"Curso gratuito de CSS básico en YouTube por DorianDesings",
+            "descripcion":"Este curso me enseñó los conceptos básicos de CSS, incluyendo estilos de texto, colores, diseños y posicionamiento. Ahora puedo aplicar estos conocimientos para dar estilo a mis páginas web."
+        },
+        {
+           "titulo_gral_cursos":"Curso en línea",
+           "dataValue": "css-int",
+           "sub_subtitulo":"Curso de CSS intermedio en línea por DorianDesings",
+           "descripcion":"Me inscribí en este curso de nivel intermedio para mejorar mis habilidades de diseño web. Cubrió temas como selecciones de CSS avanzadas, diseño responsivo y animaciones."
+        },
+        {
+           "titulo_gral_cursos":"Curso en línea",
+           "dataValue": "js-basic",
+            "sub_subtitulo":"Curso básico de JavaScript en YouTube por DorianDesings",
+            "descripcion":"Este curso me proporcionó una comprensión fundamental de la sintaxis de JavaScript y cómo utilizarla para crear interacciones básicas en las páginas web."
+        },
+         {
+            "titulo_gral_cursos":"Curso en línea",
+            "dataValue": "js-int",
+            "sub_subtitulo":"Curso básico a intermedio de  JavaScript en YouTube por Jonmircha",
+                "descripcion":"Durante mi formación en línea, con este canal tuve la oportunidad aprender JavaScript desde lo básico hasta el nivel intermedio. Este curso cubrió temas como variables, estructuras de control, funciones, eventos, DOM, AJAX y mucho más, lo que me permitió desarrollar habilidades prácticas en el uso de JavaScript para crear aplicaciones web interactivas y dinámicas"
+         },
+        {
+           "titulo_gral_cursos":"Curso en línea",
+           "dataValue": "node-basic",
+           "sub_subtitulo":"Curso básico de Node.js en línea por Fazt",
+           "descripcion":"Este curso en línea cubrió los conceptos fundamentales de Node.js, como la configuración del entorno de desarrollo, la creación de servidores y la gestión de paquetes. Me proporcionó una buena base para entender cómo se puede utilizar Node.js para crear aplicaciones web del lado del servidor."
+        }
+   ],
+   "proyectos":[
+        {
+           "uri_image": "cv-portafolio.png",
+           "href":"https://braian953autodidacta.github.io/portafolio-cv/",
+           "subtitulo_proyecto":"Portafolio",
+           "descripcion_proyecto":"Mi primer proyecto fue mi propio portafolio, hecho con HTML, CSS y JavaScript."
+        }
+   ],
+   "dato_personal":{
+      "nombre":"Braian Palacios",
+      "email": "braianpalacios699@gmail.com"
+   }
+}
