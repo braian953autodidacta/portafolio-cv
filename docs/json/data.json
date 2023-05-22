@@ -94,12 +94,18 @@
         }
    ],
    "proyectos":[
-        {
-           "uri_image": "cv-portafolio.png",
-           "href":"https://braian953autodidacta.github.io/portafolio-cv/",
-           "subtitulo_proyecto":"Portafolio",
-           "descripcion_proyecto":"Mi primer proyecto fue mi propio portafolio, hecho con HTML, CSS y JavaScript."
-        }
+      {
+         "uri_image": "cv-portafolio.png",
+         "href":"https://braian953autodidacta.github.io/portafolio-cv/",
+         "subtitulo_proyecto":"Portafolio",
+         "descripcion_proyecto":"Mi primer proyecto fue mi propio portafolio, hecho con HTML, CSS y JavaScript."
+      },
+      {
+         "uri_image": "asistente-peliculas.png",
+         "href":"https://github.com/braian953autodidacta/asistente_peliculas",
+         "subtitulo_proyecto":"Asistente de peliculas",
+         "descripcion_proyecto":"Este es un proyecto práctico, donde tratamos de hacer una lógica básica para simular un asistente que te ayude a informarte sobre las películas del momento."
+      }
    ],
    "dato_personal":{
       "nombre":"Braian Palacios",
