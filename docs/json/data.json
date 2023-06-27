@@ -99,12 +99,6 @@
          "href":"https://braian953autodidacta.github.io/portafolio-cv/",
          "subtitulo_proyecto":"Portafolio",
          "descripcion_proyecto":"Mi primer proyecto fue mi propio portafolio, hecho con HTML, CSS y JavaScript."
-      },
-      {
-         "uri_image": "project-tasks.png",
-         "href":"https://app-client-tasks.fly.dev/",
-         "subtitulo_proyecto":"Administrador de tareas",
-         "descripcion_proyecto":"En este proyecto práctico intente aplicar los conocimientos basicos del frontend y backend. En el frontend en este caso aplique frameworks como Vite + React y para estilizar Utilice Tailwind.En el lado del backend trabaje con Node.js con el framework de express y otras librerias que me ayudaron a agilizar el backend y como base de datos PostgresSQL."
       }
    ],
    "dato_personal":{
