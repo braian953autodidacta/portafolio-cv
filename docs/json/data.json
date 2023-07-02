@@ -105,6 +105,12 @@
          "href":"https://app-client-tasks.fly.dev/",
          "subtitulo_proyecto":"Administrador de tareas",
          "descripcion_proyecto":"En este proyecto práctico intente aplicar los conocimientos basicos del frontend y backend. En el frontend en este caso aplique frameworks como Vite + React y para estilizar Utilice Tailwind.En el lado del backend trabaje con Node.js con el framework de express y otras librerias que me ayudaron a agilizar el backend y como base de datos PostgresSQL."
+      },
+      {
+         "uri_image": "app-table.png",
+         "href":"https://app-tables.fly.dev/",
+         "subtitulo_proyecto":"App Tables",
+         "descripcion_proyecto":"Este proyecto es una aplicación web desarrollada con Node.js y Express, utilizando PostgreSQL como base de datos. La aplicación permite a los usuarios registrarse e iniciar sesión para acceder a su panel de control. Una vez dentro, los usuarios pueden crear y administrar sus propias tablas, lo que les permite organizar y gestionar sus datos de manera eficiente y personalizada. La aplicación cuenta con una interfaz intuitiva y fácil de usar, lo que hace que la creación y administración de tablas sea un proceso sencillo y agradable para el usuario."
       }
    ],
    "dato_personal":{
